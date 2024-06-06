@@ -1,5 +1,8 @@
-club-management-website
-Project Overview End-of-Year Project: Club Management at University
+##club-management-website
+
+Project Overview
+
+End-of-Year Project: Club Management at University
 
 This project is a web-based application designed to automate the management of university clubs.The application includes advanced features for managing members, activities, administrators, and club presidents. The website is modern and visually appealing, built using React.js, Node.js, Express.js, and MySQL.
 
